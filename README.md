@@ -1,2 +1,2 @@
 # colab
-penis1's + penis2's projects
+This repository includes some ML projects of Nox and Karash =)
